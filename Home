@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <title>Tabula Rasa University</title>
+<img src="imgs/69884803-university-wallpapers.jpg" alt="Mountain View" style="width:1290px;height:400px;">
+<div class="jumbotron">
+<h1>
+  <center>
+    <head>Tabula Rasa University</head>
+  </center>
+  </h1>
+  <div class="container">
+  <div class="btn-group">
+    <center>
+    <button type="button" class="btn btn-primary">Home</button>
+    <button type="button" class="btn btn-primary">Academics</button>
+    <button type="button" class="btn btn-primary">Libraries</button>
+    <button type="button" class="btn btn-primary">Extra-Curricular</button>
+    <button type="button" class="btn btn-primary">Courses</button>
+  </center>
+  </div>
+</div>
+<!DOCTYPE html>
+<html lang="en">
+  <title>Tabula Rasa University</title>
+<img src="imgs/69884803-university-wallpapers.jpg" alt="Mountain View" style="width:1290px;height:400px;">
+<div class="jumbotron">
+<h1>
+  <center>
+    <head>Tabula Rasa University</head>
+  </center>
+  </h1>
+  <div class="container">
+  <div class="btn-group">
+    <center>
+    <button type="button" class="btn btn-primary">Home</button>
+    <button type="button" class="btn btn-primary">Academics</button>
+    <button type="button" class="btn btn-primary">Libraries</button>
+    <button type="button" class="btn btn-primary">Extra-Curricular</button>
+    <button type="button" class="btn btn-primary">Courses</button>
+  </center>
+  </div>
+</div>
+  <button value="adadadadadadadadadad">
+
+  
